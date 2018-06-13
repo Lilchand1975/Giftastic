@@ -1,0 +1,42 @@
+
+body {
+    background-image: url("./images/butta.jpg");
+    background-size: 1250px 650px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-origin: content-box;
+}
+#header {
+    background-image: url("./images/skate.bmp");
+    margin-top: 10px;
+    color: rgb(247, 98, 29);
+    text-align: center;
+    font-size: 80px;
+}
+.btns1{
+    height: auto;
+    width: 100px;
+    background-color: greenyellow;
+    border-color: red solid 1 px;
+    color: black;   
+    margin-top: 25px; 
+}
+#btns:hover {
+    background-color: blue;
+    color: beige;
+}
+#sstm {
+    color: rgb(68, 3, 3);
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bolder;
+}
+#sub {
+    height: auto;
+    width: 100px;
+    background-color: greenyellow;
+    border-color: red solid 1 px;
+    color: black;
+    margin-top: 25px; 
+}
